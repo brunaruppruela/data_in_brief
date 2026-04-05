@@ -1,5 +1,5 @@
 # SBPO
-Papper: https://proceedings.science/sbpo/sbpo-2025/trabalhos/analise-comparativa-de-tecnicas-de-aprendizado-de-maquina-na-previsao-da-geracao
+Paper: https://proceedings.science/sbpo/sbpo-2025/trabalhos/analise-comparativa-de-tecnicas-de-aprendizado-de-maquina-na-previsao-da-geracao
 
 # Wind Power Time Series Preprocessing and Gap Analysis
 
