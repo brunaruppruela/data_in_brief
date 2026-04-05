@@ -122,7 +122,7 @@ To reproduce the datasets:
 2. Run the notebook:
 
    ```
-   wind_power_preprocessing_pipeline.ipynb
+   DATA_IN_BRIEF_data_preprocessing_and_gap_characterization_pipeline.ipynb
    ```
 3. Generated outputs will be saved automatically
 
