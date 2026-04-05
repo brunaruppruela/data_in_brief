@@ -1,0 +1,20 @@
+\begin{table}
+\centering
+\caption{Melhores parâmetros encontrados por modelo com validação cruzada.}
+\label{tab:parametros_otimizados}
+\begin{tabular}{lll}
+\toprule
+           Modelo &                                         Parâmetros & RMSE (CV) \\
+\midrule
+    Random Forest &                     max_depth=10, n_estimators=100 &    204.31 \\
+Gradient Boosting &  learning_rate=0.05, max_depth=3, n_estimators=100 &    201.54 \\
+          XGBoost &  learning_rate=0.05, max_depth=3, n_estimators=100 &    199.15 \\
+         LightGBM &  learning_rate=0.05, max_depth=3, n_estimators=100 &    190.86 \\
+              MLP & alpha=0.01, hidden_layer_sizes=(64,), learning_... &    235.48 \\
+             LSTM & hidden_size=128, learning_rate=0.0005, n_epochs... &         - \\
+              GRU & hidden_size=128, learning_rate=0.0005, n_epochs... &         - \\
+              TCN & hidden_size=128, learning_rate=0.0005, n_epochs... &         - \\
+      Transformer & d_model=128, nhead=8, num_layers=2, learning_ra... &         - \\
+\bottomrule
+\end{tabular}
+\end{table}
