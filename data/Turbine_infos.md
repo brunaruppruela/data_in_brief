@@ -11,8 +11,11 @@ The wind power data used in this project were generated based on wind speed meas
 ## General Characteristics
 
 Manufacturer: Enersud
+
 Model: GERAR 246
+
 Type: Horizontal Axis Wind Turbine (HAWT)
+
 Number of Blades: 3
 
 Rotor Diameter: **2.46 m**
